@@ -1,0 +1,13 @@
+P:\Технологии программирования\Labr4\bin\Debug\netcoreapp3.1\Labr4.exe
+P:\Технологии программирования\Labr4\bin\Debug\netcoreapp3.1\Labr4.deps.json
+P:\Технологии программирования\Labr4\bin\Debug\netcoreapp3.1\Labr4.runtimeconfig.json
+P:\Технологии программирования\Labr4\bin\Debug\netcoreapp3.1\Labr4.runtimeconfig.dev.json
+P:\Технологии программирования\Labr4\bin\Debug\netcoreapp3.1\Labr4.dll
+P:\Технологии программирования\Labr4\bin\Debug\netcoreapp3.1\Labr4.pdb
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.csprojAssemblyReference.cache
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.AssemblyInfoInputs.cache
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.AssemblyInfo.cs
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.csproj.CoreCompileInputs.cache
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.dll
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.pdb
+P:\Технологии программирования\Labr4\obj\Debug\netcoreapp3.1\Labr4.genruntimeconfig.cache
