@@ -1,0 +1,13 @@
+P:\Технологии программирования\Lab7\bin\Release\netcoreapp3.1\Lab7.exe
+P:\Технологии программирования\Lab7\bin\Release\netcoreapp3.1\Lab7.deps.json
+P:\Технологии программирования\Lab7\bin\Release\netcoreapp3.1\Lab7.runtimeconfig.json
+P:\Технологии программирования\Lab7\bin\Release\netcoreapp3.1\Lab7.runtimeconfig.dev.json
+P:\Технологии программирования\Lab7\bin\Release\netcoreapp3.1\Lab7.dll
+P:\Технологии программирования\Lab7\bin\Release\netcoreapp3.1\Lab7.pdb
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.csprojAssemblyReference.cache
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.AssemblyInfoInputs.cache
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.AssemblyInfo.cs
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.csproj.CoreCompileInputs.cache
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.dll
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.pdb
+P:\Технологии программирования\Lab7\obj\Release\netcoreapp3.1\Lab7.genruntimeconfig.cache
