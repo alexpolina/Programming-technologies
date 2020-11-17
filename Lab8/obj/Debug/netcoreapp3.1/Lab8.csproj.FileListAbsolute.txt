@@ -1,0 +1,13 @@
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+P:\Технологии программирования\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+P:\Технологии программирования\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+P:\Технологии программирования\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+P:\Технологии программирования\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+P:\Технологии программирования\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+P:\Технологии программирования\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+P:\Технологии программирования\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
