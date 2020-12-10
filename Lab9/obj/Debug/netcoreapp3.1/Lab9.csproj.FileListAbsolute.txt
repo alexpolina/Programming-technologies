@@ -1,0 +1,13 @@
+P:\Технологии программирования\Lab9\bin\Debug\netcoreapp3.1\Lab9.exe
+P:\Технологии программирования\Lab9\bin\Debug\netcoreapp3.1\Lab9.deps.json
+P:\Технологии программирования\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.json
+P:\Технологии программирования\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.dev.json
+P:\Технологии программирования\Lab9\bin\Debug\netcoreapp3.1\Lab9.dll
+P:\Технологии программирования\Lab9\bin\Debug\netcoreapp3.1\Lab9.pdb
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.csprojAssemblyReference.cache
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfoInputs.cache
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfo.cs
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.CoreCompileInputs.cache
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.dll
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.pdb
+P:\Технологии программирования\Lab9\obj\Debug\netcoreapp3.1\Lab9.genruntimeconfig.cache
