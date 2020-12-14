@@ -179,15 +179,15 @@ namespace Lab9
             Console.WriteLine(Name);
         }
 
-        public void ConvertToGallon()
+                public void ConvertToGallon()
         {
             if (CapacityID == 0)
             {
-                Quantity *= 128;
+                Quantity *= 0.0078;
             }
             else if (CapacityID == 1)
             {
-                Quantity *= 3.79;
+                Quantity *= 0.263;
             }
             Capacity = " gal";
             CapacityID = 2;
@@ -196,11 +196,11 @@ namespace Lab9
         {
             if (CapacityID == 0)
             {
-                Quantity *= 33.8;
+                Quantity *= 0.029;
             }
             else if (CapacityID == 2)
             {
-                Quantity *= 0.26;
+                Quantity *= 3.785;
             }
             Capacity = " litre";
             CapacityID = 1;
@@ -209,11 +209,11 @@ namespace Lab9
         {
             if (CapacityID == 1)
             {
-                Quantity *= 0.029;
+                Quantity *= 33.814;
             }
             else if (CapacityID == 2)
             {
-                Quantity *= 0.0078;
+                Quantity *= 128;
             }
             Capacity = " oz.";
             CapacityID = 0;
