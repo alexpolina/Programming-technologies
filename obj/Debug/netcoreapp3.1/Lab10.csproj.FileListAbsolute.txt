@@ -1,0 +1,13 @@
+P:\Технологии программирования\Lab10\bin\Debug\netcoreapp3.1\Lab10.exe
+P:\Технологии программирования\Lab10\bin\Debug\netcoreapp3.1\Lab10.deps.json
+P:\Технологии программирования\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.json
+P:\Технологии программирования\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.dev.json
+P:\Технологии программирования\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll
+P:\Технологии программирования\Lab10\bin\Debug\netcoreapp3.1\Lab10.pdb
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.csprojAssemblyReference.cache
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.CoreCompileInputs.cache
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.dll
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.pdb
+P:\Технологии программирования\Lab10\obj\Debug\netcoreapp3.1\Lab10.genruntimeconfig.cache
